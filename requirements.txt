@@ -12,6 +12,8 @@ google-auth>=2.0.0
 # Dashboard and visualization
 streamlit>=1.25.0
 plotly>=5.10.0
+matplotlib>=3.5.0
+
 
 # Scheduling and utilities
 schedule>=1.2.0
