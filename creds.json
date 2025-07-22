@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "drilldown-big-query-database",
+  "private_key_id": "2e138fae5f91279f5bbca8b012a9688b25862df6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+Q3/ksFJSKaRW\nBFOl8uU7EuQMGzKN0H4KKiU1Di0QyeUmJgLhoCV9ALV9cgKuLBRkwtiFGIlciV2v\n0ATA+jfCuKgBHUTxJYi3im+JnDqIZze5l91FpqHoTDQgFoasdVMMF5TB2R0tlmu8\nO+hNbE895Tj2XfOKnP8gE190++7AdFWogFIZEmJsFcUxxOI0IbHQ8+pZnb82ZHAB\nTwH5JE7fIRQZNIQCfWWMSTDXV6tJmfsgdkf7z45/U2mojSKAt8bm9VZQQLq1hqhO\nyiBLYCdBtbvrH3B6hGzaWFxXkAD/pEB3L48rd99vd/etQytBPvxMACZvc9vDfVNb\noJm2jnxvAgMBAAECggEABs5/9WFXLAXify8AcV/3wAJrSZOWXkRvxwni8uAZ0A9f\n2ZGIRW2Ljly1RglUaYEGxS0xB4Q2WBiUQODHr1RESUXsLwcqLWHJzTBL0KWhBwOl\nu0e8I1pUdjXjsu2bYF7v210smlvk7sLduPft+ncZfFlh1penAIgzCFxyNTkwYfxu\nhcSj1tm4r479jOLt6PPTmSN1XSspAeDqO4URbQD3u9at9VoWf3PeUKNAVl74wHSe\nClzRnQybDk9BzKFkoAqgrbQ2IcbK9+8p8jtODgcA0Y/kA3F4O81wNoJqGWnr1SC2\ngAQTbXKFFa+nTjlkIt6hvw9N/V4iXdVhQruLgRKfgQKBgQDiyzapBUihShaUGReE\nN6t0jE9VhT4NUFcS2KIus23y3JPDWAcIijdppengQZgVohhCvu9SBhXlc1441gWv\nQon+D7nyxS2+bi2fb4ImX8T36Q5zeffPy26I/85pIIvON7JoRUAmFvzAXMdDsshG\nGNZaKYMBr3hMHutZ9iDFRRGwEQKBgQDWw/wt9+o/5rIzuvjuoH3ahNLqfVcYu/ny\niyVUE1lgCjZkd6xYLJTX5/LExX4K5EDO5D22rRtLY0420w3VSx0MAJBi86tUxEas\nQLpP4LJViB6oGfRANawxqfWjDuUtdObnZuAfWhYkWpyRBTKypzOoEIeSzQJkGIZX\n2Qa6y2nkfwKBgQCFc9bCNp26awJGO02fO7Lkbfvw8urEotXZ/SfSGztDgZBhjlb1\nK3/X5w1sLKz1beCgxgHFXldcITr8btQBgUH6Af8FYAm+2M531wHa2tfomXcrdEXi\nPG7apswrCD+8JQISYU2SHEy2VOHccENxHARmIa85Oquq/za2RSKbcj0qQQKBgFSw\nFdo+n5WxL+YsPYtDqD0qEU28PUMYpPhanE6qDp1LiaVWd5SRh+QXp+imBAzhcxji\ncd9+JXw13ZrK4PKR2xNniYgrlA0qFMBKCe4Dqe8GbShWi7ViNNOktKMm9YJWTdNE\nAu76BC8zt/eLuDEws7L7Saq+wsmbziYIA5pXKhubAoGAZSq+0fHSDRRlTRk3NVsc\nO/Kuk+ilQwKaJYZzfIJ8Ad46i9rNKpW0n1Mn2jDGEZ0WBL0jDXOCksSdciPzU7B6\nYzz7tHv2dnVzWS6HAUtG1DK3dJXZVVY/NiCTL7/ActO+DkifuFNmZjvERa+d3deG\nP8g5XMUeGJYOdqoLqc+VfO0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "p2p-973@drilldown-big-query-database.iam.gserviceaccount.com",
+  "client_id": "105512971298336310942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/p2p-973%40drilldown-big-query-database.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
